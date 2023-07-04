@@ -9,5 +9,4 @@ def string(s):
            pass
     print ("No. of Upper case characters : ", a["uppercase"])
     print ("No. of Lower case Characters : ", a["lowercase"])
-
-string('Ganesh')
+string(input("enter the string:"))
